@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 use anchor_lang::solana_program;
-declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
+declare_id!("CxpWjEEVCzuRZjUWUgi1kEn7dLu58rLfcTuxjZpPeaf1");
 
 #[program]
 pub mod transfer_sol {
